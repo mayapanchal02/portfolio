@@ -9,12 +9,7 @@ I am a Data Science graduate with hands-on experience in data analytics, statist
 - **Programming & Querying:** Python, SQL, R, Java
 - **Visualization & Tools:** Tableau, Excel, MATLAB, LaTeX, Power BI
 
-### Portfolio Projects (Organized by Tool)
-
-- **Python:** [Python Projects](./Python)  
-- **SQL:** [SQL Projects](./SQL)  
-
-### Featured Projects
+### Portfolio Projects 
 
 | Project | Tool | Description | Link |
 |-------|------|-------------|------|
@@ -23,7 +18,7 @@ I am a Data Science graduate with hands-on experience in data analytics, statist
 | Job Salary Prediction Audit | Python | Fairness and performance evaluation of an automated salary prediction system using error and classification metrics | [View](./Python) |
 
 ### Contact
-- **LinkedIn:** www.linkedin.com/in/maya-panchal-381ab8270
+- **LinkedIn:** www.linkedin.com/in/maya-panchal
 - **Email:** mayapanchal01@outlook.com
 
 
