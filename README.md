@@ -1,6 +1,6 @@
 # Maya Panchal — Data Analytics Portfolio
 
-This repository showcases my data analytics and data science projects across Python, SQL, Excel, Tableau, and Power BI.
+This repository showcases my data analytics and data science projects across Python and SQL
 
 ## About Me
 I am a Data Science graduate with hands-on experience in data analytics, statistical modeling, and data visualization, with a strong interest in healthcare and public health analytics.
