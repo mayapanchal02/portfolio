@@ -13,9 +13,6 @@ I am a Data Science graduate with hands-on experience in data analytics, statist
 
 - **Python:** [Python Projects](./Python)  
 - **SQL:** [SQL Projects](./SQL)  
-- **Excel:** [Excel Projects](./Excel)  
-- **Tableau:** [Tableau Projects](./Tableau)  
-- **Power BI:** [Power BI Projects](./PowerBI)  
 
 ## Featured Projects
 
