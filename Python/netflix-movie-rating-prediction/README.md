@@ -3,7 +3,7 @@
 ## Overview
 This project uses a regression-based approach to predict movie ratings using a subset of the Netflix Prize dataset. The objective is to estimate one missing rating per movie based on historical user–movie interactions. Multiple regression models were trained and evaluated to compare performance using Root Mean Squared Error (RMSE).
 
-## Problem Statement
+## Problem 
 Recommender systems often rely on sparse user–item data, making accurate prediction challenging. This project explores whether simple, well-engineered features can effectively predict movie ratings and how different regression models perform under large-scale, sparse data constraints.
 
 ## Data
