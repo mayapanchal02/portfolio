@@ -1,4 +1,4 @@
-## Maya Panchal — Data Analytics Portfolio
+## Maya Panchal — Portfolio
 
 This repository showcases my data analytics and data science projects across Python and SQL
 
