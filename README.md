@@ -19,7 +19,7 @@ I am a Data Science graduate with hands-on experience in data analytics, statist
 |-------|------|-------------|------|
 | Netflix Movie Rating Prediction | Python | Regression models (Linear, Ridge, Random Forest) to predict user ratings using engineered user- and movie-level features | [View](./Python) |
 | Sentiment Analysis of Nike Shoes | Python | Text analysis using BERTopic clustering and statistical testing on customer reviews | [View](./Python) |
-| Job Salary Prediction Audit | Python | Fairness and performance evaluation of an automated salary prediction system using error and classification metrics | [View](python/job-salary-prediction-audit) |
+| Job Salary Prediction Audit | Python | Fairness and performance evaluation of an automated salary prediction system using error and classification metrics | [View](.python/job-salary-prediction-audit) |
 
 ### 📬 Contact
 
