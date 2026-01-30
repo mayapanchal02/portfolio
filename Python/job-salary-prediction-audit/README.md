@@ -50,6 +50,11 @@ To assess fairness-related behavior across job categories, we binarized salary o
 - SHAP/LIME interpretability was attempted but was not feasible due to compute constraints.
 - Missingness and unobserved features (e.g., seniority, education, benefits) may reduce accuracy for certain categories.
 
+## Takeaways
+- The salary prediction model performs well overall but shows uneven accuracy across job categories.
+- Certain groups, such as Domestic Help & Cleaning Jobs and Social Work Jobs, experience higher error and less balanced fairness metrics.
+- Cross-validation suggests the model is stable, but ongoing evaluation and category-specific improvements are important before real-world deployment.
+
 ## Tools
 Python, Pandas, NumPy, scikit-learn, Matplotlib
 
