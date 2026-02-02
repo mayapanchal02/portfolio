@@ -1,7 +1,7 @@
 # Sentiment Analysis of Nike Shoes Using BERTopic
 
 ## Overview
-This project analyzes consumer sentiment and engagement for Nike’s sustainable versus non-sustainable footwear. Using web-scraped product data and customer reviews, we evaluate whether sustainability labeling influences customer satisfaction, demand, and sentiment. The analysis combines statistical testing with NLP-based topic modeling using BERTopic.
+This project analyzes consumer sentiment and engagement for Nike’s sustainable versus non-sustainable footwear. Using web-scraped product data and customer reviews, we evaluate whether sustainability labeling influences customer satisfaction, demand, and sentiment
 
 ## Problem Statement
 As sustainability becomes a growing focus in the fashion industry, companies face pressure to align environmental goals with consumer demand. This project examines whether customer sentiment and engagement differ between sustainable and non-sustainable Nike shoes, and whether product descriptions accurately reflect consumer experience.
