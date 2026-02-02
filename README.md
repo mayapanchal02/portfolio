@@ -18,7 +18,7 @@ I am a Data Science graduate with hands-on experience in data analytics, statist
 | Project | Tool | Description | Link |
 |-------|------|-------------|------|
 | Netflix Movie Rating Prediction | Python | Regression models (Linear, Ridge, Random Forest) to predict user ratings using engineered user- and movie-level features | [View](https://github.com/mayapanchal02/portfolio/tree/main/Python/netflix-movie-rating-prediction) |
-| Sentiment Analysis of Nike Shoes | Python | Text analysis using BERTopic clustering and statistical testing on customer reviews | [View](./Python) |
+| Sentiment Analysis of Nike Shoes | Python | Text analysis using BERTopic clustering and statistical testing on customer reviews | [View](https://github.com/mayapanchal02/portfolio/tree/main/Python/nike-sentiment-analysis-bertopic) |
 | Job Salary Prediction Audit | Python | Fairness and performance evaluation of an automated salary prediction system using error and classification metrics | [View](https://github.com/mayapanchal02/portfolio/tree/main/Python/job-salary-prediction-audit) |
 
 ### Contact
