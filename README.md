@@ -2,26 +2,26 @@
 
 This repository showcases my data analytics and data science projects across Python and SQL
 
-### 🧾 About Me
+### About Me
 I am a Data Science graduate with hands-on experience in data analytics, statistical modeling, and data visualization, with a strong interest in healthcare and public health analytics
 
-### 🎓 Education
+### Education
 **New York University** <br>
   *B.A in Data Science* <br>
 
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 - **Programming & Querying:** Python, SQL, R, Java
 - **Visualization & Tools:** Tableau, Excel, MATLAB, LaTeX, Power BI
 
-### 🚀 Featured Projects
+### Featured Projects
 | Project | Tool | Description | Link |
 |-------|------|-------------|------|
 | Netflix Movie Rating Prediction | Python | Regression models (Linear, Ridge, Random Forest) to predict user ratings using engineered user- and movie-level features | [View](https://github.com/mayapanchal02/portfolio/tree/main/Python/netflix-movie-rating-prediction) |
 | Sentiment Analysis of Nike Shoes | Python | Text analysis using BERTopic clustering and statistical testing on customer reviews | [View](./Python) |
 | Job Salary Prediction Audit | Python | Fairness and performance evaluation of an automated salary prediction system using error and classification metrics | [View](https://github.com/mayapanchal02/portfolio/tree/main/Python/job-salary-prediction-audit) |
 
-### 📬 Contact
+### Contact
 
 <p align="left">
   <a href="https://linkedin.com/in/maya-panchal" style="text-decoration:none;">
